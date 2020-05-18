@@ -3,7 +3,7 @@ Auto_Painter using GANS
 
 
 ### Overview
-GANS (Generative Adversarial Networks) is composed of two neaural networks, known as Generator and Discriminator. For more info. [here](https://en.wikipedia.org/wiki/Generative_adversarial_network). The task is to generate color images from the sketch images. Here, generator generates (generated color images) and discriminator classify between (generated color images) and (real color images) wherein there will be loss from which generator will learn and finally generate (generated color images) close to (real color images). 
+GANS (Generative Adversarial Networks) is composed of two neural networks, known as Generator and Discriminator. For more info. [here](https://en.wikipedia.org/wiki/Generative_adversarial_network). The task is to generate color images from the sketch images. Here, generator generates (generated color images) and discriminator classify between (generated color images) and (real color images) wherein there will be loss from which generator will learn and finally generate (generated color images) close to (real color images). 
 
 ### Loss
 This task is not accomplished by only Binary Crossentropy, we need other conventional losses to do it such as Pixel value loss, Total variantion loss, Feature loss.   
