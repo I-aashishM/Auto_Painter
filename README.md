@@ -9,9 +9,12 @@ GANS (Generative Adversarial Networks) is composed of two neaural networks, know
 This task is not accomplished by only Binary Crossentropy, we need other conventional losses to do it such as Pixel value loss, Total variantion loss, Feature loss.   
 
 
-###Output
+### Output
 
 ![example of generated image](Image/output.png)
+
+### Conclusion 
+I used Google Colab to perform this task. it took almost 7-8 hr to train model with 30 to 33 epochs. As there is time limit in Google colab GPU enable, so I couldn't perform for more epochs. 
 
 ### References
 Sanjay Ulsha project "Sketch2Color anime translation using Generative Adversarial Networks(GANs)" [here](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb)
@@ -19,6 +22,8 @@ Sanjay Ulsha project "Sketch2Color anime translation using Generative Adversaria
 Kaggle dataset by Taebum Kim [here](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair)
 
 Research Paper by Yifan Liu, Zengchang Qin, Zhenbo Luo, Hua Wang on "Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks" [here](https://arxiv.org/abs/1705.01908)
+
+
 ### Requirements
 - Keras
 - Tensorflow 1.x
