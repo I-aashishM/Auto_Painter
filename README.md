@@ -14,7 +14,7 @@ This task is not accomplished by only Binary Crossentropy, we need other convent
 ![example of generated image](Image/output.png)
 
 ### Conclusion 
-I used Google Colab to perform this task. it took almost 7-8 hr to train model with 30 to 33 epochs. As there is time limit in Google colab GPU enable, so I couldn't perform for more epochs. 
+I used Google Colab to perform this task. it took almost 7-8 hours to train model with 30 to 33 epochs. As there is time limit in Google colab GPU enable, so I couldn't perform for more epochs. I guess it could learn better with more epochs.
 
 ### References
 Sanjay Ulsha project "Sketch2Color anime translation using Generative Adversarial Networks(GANs)" [here](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb)
