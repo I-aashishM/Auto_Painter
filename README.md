@@ -11,7 +11,7 @@ This task is not accomplished by only Binary Crossentropy, we need other convent
 
 ###Output
 
-![Image description](image/output.png)
+![example of generated image](Image/output.png)
 
 ### References
 Sanjay Ulsha project "Sketch2Color anime translation using Generative Adversarial Networks(GANs)" [here](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb)
